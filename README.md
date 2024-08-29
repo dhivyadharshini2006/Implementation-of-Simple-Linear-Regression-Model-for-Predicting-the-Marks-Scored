@@ -8,11 +8,12 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
-
+1.Import the standard Libraries.
+2.Set variables for assigning dataset values.
+3.Import linear regression from sklearn.
+4.Assign the points for representing in the graph.
+5.Predict the regression for marks by using the representation of the graph.
+6.Compare the graphs and hence we obtained the linear regression for the given datas.
 ## Program:
 ```
 /*
@@ -67,7 +68,25 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+
+![image](https://github.com/user-attachments/assets/6182a7e7-af97-4035-b10a-c88d3dce3052)
+
+![image](https://github.com/user-attachments/assets/96845ce2-a3d3-47c6-921c-27f191e8aad1)
+
+![image](https://github.com/user-attachments/assets/d8cb806c-e9e3-4163-8141-2ad05571b7ba)
+
+![image](https://github.com/user-attachments/assets/93dc9902-52a2-4604-90a6-2c195e4a65c5)
+
+
+![Screenshot 2024-08-29 114303](https://github.com/user-attachments/assets/3fe4d593-4b2a-4cc7-80d9-696ce3da86b5)
+
+![image](https://github.com/user-attachments/assets/de4f8774-a598-44aa-a75a-1bc66257eb40)
+
+
+![image](https://github.com/user-attachments/assets/7f2934a4-718b-423d-8cc7-22942fcf6a94)
+
+![image](https://github.com/user-attachments/assets/0cbbce4d-4e4b-4a16-aa2b-ce9e987748ec)
 
 
 ## Result:
